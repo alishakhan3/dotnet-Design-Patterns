@@ -1,0 +1,14 @@
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\bin\Debug\net8.0\PatternAssignment.exe
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\bin\Debug\net8.0\PatternAssignment.deps.json
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\bin\Debug\net8.0\PatternAssignment.runtimeconfig.json
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\bin\Debug\net8.0\PatternAssignment.dll
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\bin\Debug\net8.0\PatternAssignment.pdb
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.AssemblyInfoInputs.cache
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.AssemblyInfo.cs
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.dll
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\refint\PatternAssignment.dll
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.pdb
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\PatternAssignment.genruntimeconfig.cache
+C:\Users\alisha.k_int1593\source\repos\AlishaKhan_INT1593\PatternAssignment\obj\Debug\net8.0\ref\PatternAssignment.dll
